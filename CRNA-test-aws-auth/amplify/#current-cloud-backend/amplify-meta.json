@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "testawsauth-20190204182256-authRole",
+            "UnauthRoleArn": "arn:aws:iam::511288360265:role/testawsauth-20190204182256-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::511288360265:role/testawsauth-20190204182256-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "testawsauth-20190204182256-deployment",
+            "UnauthRoleName": "testawsauth-20190204182256-unauthRole",
+            "StackName": "testawsauth-20190204182256",
+            "StackId": "arn:aws:cloudformation:us-east-2:511288360265:stack/testawsauth-20190204182256/cde7c5c0-28d3-11e9-8c5b-062853107e54"
+        }
+    }
+}
